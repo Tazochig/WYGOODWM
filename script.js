@@ -42,7 +42,7 @@ const handleYesClick = () => {
     const randomIndex = Math.floor(Math.random() * dateIdeas.length);
     const selectedDateIdea = dateIdeas[randomIndex];
 
-    alert(`Sending kisses to  ${selectedDateIdea}`);
+    alert(`Sending kisses to ${selectedDateIdea}`);
   });
 
   // Replace yesBtn with the new letsGoBtn
