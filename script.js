@@ -15,8 +15,8 @@ const handleYesClick = () => {
 
   // Define predefined romantic date ideas
   const dateIdeas = [
-    "Cook a romantic dinner together",
-    "Attend a dance class together",
+    "Ya",
+    "You",
 
     // Add more date ideas as needed
   ];
